@@ -38,7 +38,7 @@ La fusée se divise en plusieurs sous-systèmes modulaires :
 Les étudiants ont utilisé les logiciels et matériels suivants pour mener à bien le projet :
 
 * **Simulation & Dimensionnement :**
-    * [OpenRocket](https://github.com/openrocket/openrocket) et *Stab Traj* pour valider l'aérodynamisme.
+    * [OpenRocket](https://github.com/openrocket/openrocket) et [Stab Traj](https://www.planete-sciences.org/espace/spock/) pour valider l'aérodynamisme.
     * Calcul du Centre de Gravité (CG) et du Centre de Poussée (CP).
 * **Conception (CAO/DAO) :**
     * **Fusion 360** pour la modélisation 3D du bloc moteur et de la base.
