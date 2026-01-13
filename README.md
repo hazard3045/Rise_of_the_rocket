@@ -1,4 +1,4 @@
-# 🚀 Projet Ascension - Phase 1 : Atelier Mini-Fusée
+# 🚀 Projet Ascension - Atelier Mini-Fusée
 
 **Club IMSAT - IMT Atlantique (Campus de Brest)**
 
